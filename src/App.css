@@ -65,6 +65,8 @@
     border: none;
     outline: none;
     cursor: pointer;
+
+    margin-top: 13px;
 }
 
 .p__cormorant {
